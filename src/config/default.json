@@ -1,0 +1,11 @@
+{
+    "DB_CONFIG": {
+        "USER": "",
+        "PASSWORD": "",
+        "CLUSTER": "",
+        "DB_NAME": ""
+    },
+    "SERVER": {
+        "PORT": 3000
+    }
+}

@@ -1,0 +1,1 @@
+/* mongoose schema can be added in future */
